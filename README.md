@@ -56,6 +56,6 @@ timer.Stop();
 
 此計時器根據[MIT](https://choosealicense.com/licenses/mit/)許可證授權。請參閱`LICENSE`文件以了解更多內容。
 
-## 致謝 Acknowledgements
+## 銘謝
 
 感謝 [UniTask](https://github.com/Cysharp/UniTask) 提供的 async/await 功能，讓我們可以更輕鬆地使用計時器。特別感謝 [UniTask](https://github.com/Cysharp/UniTask) 的開發人員，提供如此優秀的工具。
