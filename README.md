@@ -40,3 +40,14 @@ public class MyBehaviour : MonoBehaviour
         Debug.Log("Delay complete!");
     }
 }
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Acknowledgements
+Thanks to [@neuecc](https://github.com/neuecc) for creating UniTask.
