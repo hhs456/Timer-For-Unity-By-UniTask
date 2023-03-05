@@ -27,7 +27,7 @@ To register callbacks during the timer's runtime, simply subscribe to the `OnTim
 timer.OnTimerTick += OnTick; // Register tick callback
 timer.OnTimerComplete += OnComplete; // Register complete callback
 ```
-In the `OnTick` method, you can update the UI or perform any other necessary operations. In the OnComplete method, you can perform any necessary cleanup operations.
+In the `OnTick` method, you can update the UI or perform any other necessary operations. In the `OnComplete` method, you can perform any necessary cleanup operations.
 
 ### Starting and Stopping the Timer
 
@@ -49,7 +49,7 @@ During the timer's runtime, the `OnTimerTick` event will be triggered every 0.1 
 
 ## Contributing
 
-If you find any errors or would like to make a contribution, please open an issue or submit a pull request on GitHub.
+If you find any errors or would like to make a contribution, please open an issue or submit a pull request on `GitHub`.
 
 ## License
 
