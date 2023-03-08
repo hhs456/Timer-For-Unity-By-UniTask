@@ -4,6 +4,7 @@ using UnityEngine.UI;
 using Cysharp.Threading.Tasks;
 
 namespace ToolKid {
+    [AddComponentMenu("[Tool-Kid] Stopwatch 碼表")]    
     public class Stopwatch : MonoBehaviour {
         [SerializeField] private Text timerText; // 顯示計時器時間的UI Text
         [SerializeField] private float duration = 60f; // 計時器時間
