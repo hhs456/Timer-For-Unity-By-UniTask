@@ -5,7 +5,8 @@ using UnityEngine;
 using UnityEngine.UI;
 
 namespace ToolKid {
-    public class GameTimer : MonoBehaviour {
+    [AddComponentMenu("[Tool-Kid] Clock 時鐘")]
+    public class Clock : MonoBehaviour {
         // 用於顯示計時器的文字
         public Text timerText;
 
