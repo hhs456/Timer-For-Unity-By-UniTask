@@ -9,6 +9,11 @@
   "licensesUrl": "https://choosealicense.com/licenses/mit/",
   "samples": [
     {
+      "displayName": "Clock",
+      "description": "Performs a simple clock that can be used in Unity games.",
+      "path": "Samples~/Clock"
+    },
+    {
       "displayName": "Stopwatch",
       "description": "Performs a simple stopwatch that can be used in Unity games.",
       "path": "Samples~/Stopwatch"
